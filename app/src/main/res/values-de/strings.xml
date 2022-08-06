@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yearlies</string>
+    <string name="main_heading">Yearlies</string>
+    <string name="main_desc_add">Pluszeichen</string>
+    <string name="main_desc_delete">Löschen</string>
+    <string name="main_desc_settings">Einstellungen</string>
+    <string name="main_wow_such_empty">Wow, solche Leere!</string>
+    <string name="main_date_formatter">dd.MM.yyyy</string>
+    <string name="add_heading">Yearly hinzufügen</string>
+    <string name="add_day">Tag</string>
+    <string name="add_month">Monat</string>
+    <string name="add_year">Jahr</string>
+    <string name="add_name">Name</string>
+    <string name="add_note">Notiz</string>
+    <string name="add_day_cant_be_empty">Der Tag darf nicht leer sein.</string>
+    <string name="add_month_cant_be_empty">Der Monat darf nicht leer sein.</string>
+    <string name="add_year_cant_be_empty">Das Jahr darf nicht leer sein.</string>
+    <string name="add_desc_check">Bestätigungshaken</string>
+    <string name="settings_heading">Einstellungen</string>
+    <string name="settings_text">Geschrieben von Jeremias Loos im Jahr 2022. Gemacht mit Jetpack Compose und Material 3. Besuchen Sie jeremiasloos.de für weitere Informationen. Wenn Sie mir Verbesserungsvorschläge oder Ideen zum Projekt zusenden wollen, können Sie mich per E-Mail an jeremias@jeremiasloos.de erreichen.</string>
+    <string name="settings_thanks">Vielen Dank an Philipp Lackner und seine wunderbaren Tutorials über die Android-Entwicklung. Besucht seinen YouTube-Kanal hier: https://www.youtube.com/c/PhilippLackner</string>
+    <string name="add_name_cant_be_empty">Der Name darf nicht leer sein</string>
+    <string name="add_not_a_valid_date">Das eingetragene Datum ist ungültig. Bitte geben Sie ein gültiges Datum ein.</string>
+    <string name="settings_interval_text">Benachrichtigungsinterval wählen</string>
+    <string name="settings_interval_off">Aus</string>
+    <string name="settings_interval_daily">Täglich</string>
+    <string name="settings_interval_weekly">Wöchentlich</string>
+    <string name="settings_interval_monthly">Monatlich</string>
+    <string name="settings_saved">Erfolgreich gespeichert</string>
+    <string name="settings_notifications_not_working_yet">Benachrichtigungen können sich unerwartet verhalten. Einige Hersteller beschneiden ihre Smartphones im Hintergrund bei Benachrichtigungen.</string>
+    <string name="alarm_title">Bevorstehende Yearlies</string>
+    <string name="main_alert_title">Yearly löschen</string>
+    <string name="main_alert_text">Soll das Yearly %1$s gelöscht werden?</string>
+    <string name="main_alert_confirm_button">Löschen</string>
+    <string name="main_alert_cancel_button">Abbrechen</string>
+    <string name="main_alert_confirmed">%1$s wurde erfolgreich gelöscht.</string>
+    <string name="main_alert_cancelled">Löschung abgebrochen</string>
+</resources>

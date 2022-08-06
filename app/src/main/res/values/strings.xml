@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Yearlies</string>
+    <!-- Main Screen -->
+    <string name="main_heading">Yearlies</string>
+    <string name="main_desc_add">Plus-Sign</string>
+    <string name="main_desc_delete">Delete</string>
+    <string name="main_desc_settings">Settings</string>
+    <string name="main_wow_such_empty">Wow, such empty!</string>
+    <string name="main_date_formatter">MM-dd-yyyy</string>
+    <string name="main_alert_title">Delete Yearly</string>
+    <string name="main_alert_text">Shall the Yearly named "%1$s" be deleted?</string>
+    <string name="main_alert_confirm_button">Delete</string>
+    <string name="main_alert_cancel_button">Cancel</string>
+    <string name="main_alert_confirmed">%1$s was deleted successfully.</string>
+    <string name="main_alert_cancelled">Deletion was cancelled.</string>
+    <!-- Add Screen -->
+    <string name="add_heading">Add Yearly</string>
+    <string name="add_day">Day</string>
+    <string name="add_month">Month</string>
+    <string name="add_year">Year</string>
+    <string name="add_name">Name</string>
+    <string name="add_note">Note</string>
+    <string name="add_day_cant_be_empty">The day can\'t be empty.</string>
+    <string name="add_month_cant_be_empty">The month can\'t be empty.</string>
+    <string name="add_year_cant_be_empty">The year can\'t be empty.</string>
+    <string name="add_name_cant_be_empty">The name can\'t be empty.</string>
+    <string name="add_not_a_valid_date">The entered date is invalid. Please enter a valid date.</string>
+    <string name="add_desc_check">Confirmation hook</string>
+    <!-- Settings Screen -->
+    <string name="settings_heading">Settings</string>
+    <string name="settings_interval_text">Select notification interval</string>
+    <string name="settings_interval_off">Off</string>
+    <string name="settings_interval_daily">Daily</string>
+    <string name="settings_interval_weekly">Weekly</string>
+    <string name="settings_interval_monthly">Monthly</string>
+    <string name="settings_saved">Successfully saved!</string>
+    <string name="settings_notifications_not_working_yet">Notifications may behave strangely, depending on your device. Many manufacturers try to optimize their phones by pruning notifications in the background.</string>
+    <string name="settings_text">Written by Jeremias Loos in 2022. Made with Jetpack Compose and Material 3. Visit jeremiasloos.de for more information. If you\'d like to send me improvement ideas or feature request, you can also send an email to jeremias@jeremiasloos.de</string>
+    <string name="settings_thanks">Thanks to Philipp Lackner and his awesome tutorials on Android Development. Check out his YouTube-channel here: https://www.youtube.com/c/PhilippLackner</string>
+    <!-- Alarm Service -->
+    <string name="alarm_title">Upcoming Yearlies</string>
+
+</resources>

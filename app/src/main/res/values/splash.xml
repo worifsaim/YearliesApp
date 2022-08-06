@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Stating" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#c0c0c0</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_yearlies_splash</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.Yearlies</item>
+    </style>
+</resources>
